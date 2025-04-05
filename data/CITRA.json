@@ -1,0 +1,18 @@
+{
+    "id": 80966089,
+    "name": "CITRA",
+    "author": "VARSE",
+    "creators": ["VARSE"],
+    "verifier": "Trico",
+    "verification": "https://www.youtube.com/watch?v=S4if6tq0fig",
+    "percentToQualify": "72",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Agelio",
+            "link": "https://www.youtube.com/watch?v=Z9w9VAHNqAM",
+            "percent": 100,
+            "hz": 240
+        }
+        ]
+}
